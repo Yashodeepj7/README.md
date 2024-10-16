@@ -12,9 +12,7 @@
 
 - 📝 I regularly write articles on [https://hashnode.com/@Siddhesh-Shende](https://hashnode.com/@Siddhesh-Shende)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
