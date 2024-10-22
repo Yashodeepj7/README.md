@@ -10,7 +10,6 @@
 
 - 👨‍💻 All of my projects are available at [https://siddheshshendeportfolio.netlify.app/](https://siddheshshendeportfolio.netlify.app/)
 
-- 📝 I regularly write articles on [https://hashnode.com/@Siddhesh-Shende](https://hashnode.com/@Siddhesh-Shende)
 
 
 
