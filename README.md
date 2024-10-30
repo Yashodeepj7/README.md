@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **javascript**
 
-- 👨‍💻 All of my projects are available at [https://siddheshshendeportfolio.netlify.app/](https://siddheshshendeportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://siddheshshendeportfolio.netlify.app/](https://yashodeep-portfolio.netlify.app/)
 
 
 
